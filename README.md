@@ -1,11 +1,5 @@
 ### Hi there 👋
-I am Rohit! A PHP/Vue Developer.
-Currently working with SukanFood. 
-Building an web application for sukanFood, 
-My Git stats might not impress you because i have been using company's git account..
-Thats it.
 Thanks for the visit.
-
 <!--
 **rohit-sagar256/rohit-sagar256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
