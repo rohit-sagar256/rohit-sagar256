@@ -1,16 +1,21 @@
-### Hi there 👋
-Thanks for the visit.
-<!--
-**rohit-sagar256/rohit-sagar256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Rohit Sagar
 
-Here are some ideas to get you started:
+Engineer. I build things, break them, and build them better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Stack**
+
+Python · PHP · JavaScript / TypeScript
+
+---
+
+**Open source**
+
+- [`@elysian256/noise-wave-flow`](https://github.com/rohit-sagar256/noise-wave-flow) — organic noise-field canvas animation for the web
+
+---
+
+**Links**
+
+[Multioriontech](https://multioriontech.com)
